@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there 👋 I'm SD (imtherealsd)
 
-<!--
-**imtherealsd/imtherealsd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 2nd Year AI & ML Engineering Student  
+💡 Passionate about Machine Learning, Python, and Problem Solving  
+📚 Currently exploring Data Science, C Programming, and GitHub Projects  
+🌱 Building small projects to grow into big ideas
 
-Here are some ideas to get you started:
+## 🛠️ Languages & Tools
+- Python, C
+- NumPy, Pandas (Basics)
+- Git & GitHub
+- Google Colab
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+- [Python-Projects](https://github.com/imtherealsd/Python-Projects) – Simple scripts & games in Python  
+- [C-Programming](#) – (Create this soon for your C projects)  
+- Coming soon: Mini ML Projects (sklearn, data cleaning, regression)
+
