@@ -1,4 +1,5 @@
-# Hi there 👋 I'm SD (imtherealsd)
+# Hi there 👋 
+I'm SD (imtherealsd)
 
 🎓 2nd Year AI & ML Engineering Student  
 💡 Passionate about Machine Learning, Python, and Problem Solving  
