@@ -7,10 +7,10 @@ I'm SD (imtherealsd)
 🌱 Building small projects to grow into big ideas
 
 ## 🛠️ Languages & Tools
-- Python, C
+- Python, C, Web Dev(Frontend)
 - NumPy, Pandas (Basics)
-- Git & GitHub
-- Google Colab
+- GitHub
+- VS Code, Google Colab, Anaconda Navigator
 
 ## 🚀 Projects
 - [Python-Projects](https://github.com/imtherealsd/Python-Projects) – Simple scripts & games in Python  
