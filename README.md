@@ -13,7 +13,5 @@ I'm SD (imtherealsd)
 - VS Code, Google Colab, Anaconda Navigator
 
 ## 🚀 Projects
-- [Python-Projects](https://github.com/imtherealsd/Python-Projects) – Simple scripts & games in Python  
-- [C-Programming](#) – (Create this soon for your C projects)  
 - Coming soon: Mini ML Projects (sklearn, data cleaning, regression)
 
