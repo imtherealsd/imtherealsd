@@ -1,50 +1,83 @@
-# Hi there 👋 I'm SD (imtherealsd)
+# Hi, I'm Shailendra Dande
 
-🎓 AI & ML Engineering Student (3rd Year)  
-💡 Passionate about building real-world projects in Machine Learning, Python, and Web Development  
-📊 Exploring Data Science, Deep Learning, Cloud Computing & Problem Solving  
-🚀 Focused on creating impactful AI solutions, scalable tech projects, and practical innovation  
+### AI/ML Developer | Software Developer | Building Intelligent Solutions
 
----
+I'm a final-year Artificial Intelligence & Machine Learning engineering student passionate about building practical AI applications, intelligent software systems, and innovative web experiences.
 
-## 🛠️ Languages & Tools
-- Python, C, HTML, CSS, JavaScript  
-- NumPy, Pandas, Scikit-learn, Matplotlib  
-- Git & GitHub  
-- VS Code, Google Colab, Jupyter Notebook, Anaconda  
-- Basics of Cloud Computing (AWS, Virtualization, Deployment)
+I enjoy turning ideas into working products through experimentation, problem-solving, and continuous learning.
+
+- AI/ML applications and intelligent systems
+- Computer vision and deep learning
+- Full-stack development and AI integration
+- Developer tools, automation, and open-source projects
 
 ---
 
-## 🚀 Featured Projects
-- 🧠 Breast Cancer Classification AI (CNN + Grad-CAM for Explainable AI)
-- 🤝 SkillSync AI – AI-powered skill barter platform
-- 📊 Titanic Dataset Analysis & Prediction
-- ☁️ Cloud Computing Academic Projects
-- 🔍 Data Cleaning, Regression & Classification Mini Projects
+## Tech Stack
+
+**Languages**
+- Python, JavaScript, HTML, CSS
+
+**AI & Machine Learning**
+- NumPy, Pandas, Scikit-learn, TensorFlow/PyTorch
+- Machine Learning, Deep Learning, Computer Vision
+
+**Development**
+- React, Next.js, Tailwind CSS
+- FastAPI, REST APIs
+
+**Databases & Cloud**
+- PostgreSQL, Supabase, Firebase
+- Git, GitHub, Linux, AWS fundamentals
 
 ---
 
-## 🌱 Currently Learning
-- Deep Learning & Computer Vision  
-- Advanced Machine Learning  
-- Cloud + AI Integration  
-- Open Source Collaboration  
+## Featured Projects
+
+### AI Breast Cancer Detection
+A deep-learning project exploring breast cancer classification using CNNs, with Grad-CAM for model explainability.
+
+**Focus:** Deep Learning · Computer Vision · Explainable AI
+
+### SkillSync AI
+An AI-powered skill-barter platform concept designed to connect people who want to exchange knowledge and learn from each other.
+
+**Focus:** AI Matchmaking · Web Development · Intelligent Systems
+
+### AI-Driven Skill Gap Analyzer
+A project designed to analyze skills, identify potential skill gaps, and help users explore personalized learning pathways.
+
+**Focus:** AI · Resume Analysis · Skill Intelligence
+
+### CyberDesk
+A cybersecurity-focused web application concept designed to improve the user experience of reporting and understanding digital incidents in India.
+
+**Focus:** Cybersecurity · Web Development · Supabase
+
+### MoodFM
+An audio experience project focused on mood-based listening and a distinctive, tactile-inspired user interface.
+
+**Focus:** Frontend Engineering · Audio Applications · Product Design
 
 ---
 
-## 📈 Goals for 2026
-- Build impactful AI/ML solutions  
-- Contribute to real-world open source projects  
-- Secure internships in AI, ML, or Data Science  
-- Grow as a developer, problem solver, and innovator  
+## Currently Exploring
+
+- Advanced Machine Learning and Deep Learning
+- Generative AI and LLM-powered applications
+- Computer Vision and Explainable AI
+- Full-stack product development
+- Cloud technologies and deployment
+- Open-source collaboration
 
 ---
 
-## 📫 Connect With Me
-- GitHub: https://github.com/imtherealsd  
-- LinkedIn: www.linkedin.com/in/shailendra-dande-6535a5346  
+## Let's Connect
+
+- **GitHub:** https://github.com/imtherealsd
+- **LinkedIn:** Connect with me on LinkedIn
+- **Portfolio:** Explore my projects and development journey
 
 ---
 
-⭐ “Building small projects today to create big innovations tomorrow.”
+*Building small projects today to create meaningful innovations tomorrow.*
