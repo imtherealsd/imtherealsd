@@ -75,8 +75,8 @@ An audio experience project focused on mood-based listening and a distinctive, t
 ## Let's Connect
 
 - **GitHub:** https://github.com/imtherealsd
-- **LinkedIn:** Connect with me on LinkedIn
-- **Portfolio:** Explore my projects and development journey
+- **LinkedIn:** www.linkedin.com/in/shailendra-dande-1406b7271
+- **Portfolio:** COMING SOON...!~
 
 ---
 
